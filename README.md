@@ -1,4 +1,5 @@
-# Shadow Arsenal: A Collection of Security Research Tools
+# Shadow Arsenal: 
+## A Collection of Security Research and Exploitation Tools
 
 **Disclaimer:** This repository is intended for educational and research purposes only. The authors do not endorse or encourage any illegal or unethical activities. Use of these tools and techniques is solely at your own risk.
 
